@@ -1,3 +1,2 @@
 # webtec-demo
-This is my First repository.
-Author- Laxmi Maurya.
+This is my First repository Author- Laxmi Maurya.
